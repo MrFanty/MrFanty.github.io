@@ -13,6 +13,10 @@ body {
     text-align: center;
 }
 
+.link {
+    text-decoration: none;
+}
+
 .container {
     width: 800px;
     min-height: 500px;
@@ -35,7 +39,7 @@ height: 50px;
 justify-content: center;
 align-items: center;
 font-size: 40px;
-
+text-decoration: none;
 }
 
 .tabs_body {
@@ -46,6 +50,7 @@ font-size: 40px;
 padding: 50px;
 display: none;
 font-size: 20px;
+
 }
 
 .tabs_block:target {
